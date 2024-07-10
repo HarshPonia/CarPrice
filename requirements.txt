@@ -4,3 +4,4 @@ sklearn.model_selection
 LinearRegression
 streamlit
 pickle
+scikit-learn==1.1.3
